@@ -1,0 +1,131 @@
+Multiple entities paths:
+
+TRAIT 1: i love the heat and pool time. (Entities: love, pool)
+TRAIT 2: i prefer slacks and shirts. (Entities: slacks, prefer)
+
+Path from love to slacks
+Shortest path: ['love', 'emotion', 'mental process', 'being creative', 'art', 'activity', 'industry', 'paints', 'base material', 'textile', 'artificial physical object', 'dressed', 'slacks']
+['love', 'industry', 'textile', 'dressed', 'slacks']
+
+Path from love to prefer
+Shortest path: ['love', 'emotion', 'mental process', 'being creative', 'art', 'activity', 'sport', 'swimmer', 'human action', 'choice', 'prefer']
+['love', 'emotion', 'activity', 'choice', 'prefer']
+
+Path from pool to slacks
+Shortest path: ['pool', 'water reservoir', 'discern', 'building', 'architectural structure', 'park', 'green space', 'garden', 'work', 'dressed', 'slacks']
+['pool', 'park', 'work', 'dressed', 'slacks']
+
+Path from pool to prefer
+Shortest path: ['pool', 'water reservoir', 'discern', 'building', 'architectural structure', 'ruined', 'artificial entity', 'textile', 'base material', 'paints', 'industry', 'activity', 'sport', 'swimmer', 'human action', 'choice', 'prefer']
+['pool', 'industry', 'activity', 'choice', 'prefer']
+
+-----------------------------------------------------------
+
+TRAIT 1: my favorite food is cheeseburgers. (Entities: cheeseburgers, food)
+TRAIT 2: i love to be at the lake. (Entities: love, lake)
+
+Path from cheeseburgers to lake
+Shortest path: ['cheeseburgers', 'burgers', 'food', 'product', 'dressed', 'work', 'garden', 'green space', 'park', 'geographic location', 'sea', 'still waters', 'lake']
+['cheeseburgers', 'geographic location', 'sea', 'still waters', 'lake']
+
+Path from cheeseburgers to love
+Shortest path: ['cheeseburgers', 'burgers', 'food', 'product', 'software', 'creative work', 'commercials', 'service', 'education', 'learning', 'cognition', 'attentive', 'mental process', 'emotion', 'love']
+['cheeseburgers', 'creative work', 'education', 'learning', 'love']
+
+Path from food to lake
+Shortest path: ['food', 'product', 'dressed', 'work', 'garden', 'green space', 'park', 'geographic location', 'mountains', 'landform', 'lake']
+['food', 'product', 'dressed', 'mountains', 'lake']
+
+Path from food to love
+Shortest path: ['food', 'product', 'toy', 'creative work', 'commercials', 'service', 'education', 'learning', 'cognition', 'attentive', 'mental process', 'emotion', 'love']
+['food', 'education', 'learning', 'cognition', 'love']
+
+
+
+-------------------------------------------------------------------
+
+TRAIT 1: i work at a business that sells morning drinks. (Entities: work, sells)
+TRAIT 2: i prefer warm tones. (Entities: warm)
+
+Path from work to prefer
+Shortest path: ['work', 'dressed', 'product', 'software', 'creative work', 'commercials', 'service', 'construction', 'human action', 'choice', 'prefer']
+['work', 'service', 'construction', 'choice', 'prefer']
+
+Path from work to warm
+Shortest path: ['work', 'article', 'publication', 'books', 'audiobooks', 'audiovisual work', 'film', 'series', 'past time', 'scalar physical quantity', 'warm']
+['work', 'film', 'series', 'past time', 'warm']
+
+
+
+--------------------------------------------------------------------
+
+TRAIT 1: i work in sales. (Entities: work, sales)
+TRAIT 2: i am finally done with school. (Entities: school)
+
+Shortest path: ['work', 'garden', 'green space', 'park', 'architectural structure', 'school', 'school']
+['work', 'garden', 'park', 'school', 'school']
+
+Path from sales to school
+Shortest path: ['sales', 'trade', 'economic branch', 'media and publishing industry', 'activity', 'industry', 'paints', 'base material', 'textile', 'artificial entity', 'ruined', 'architectural structure', 'school', 'school']
+['sales', 'trade', 'ruined', 'school', 'school']
+
+
+
+-----------------------------------------------------------------------
+
+TRAIT 1: i am a server at a food place. (Entities: server)
+TRAIT 2: i eat greasy foods. (Entities: greasy, foods)
+
+Path from food to greasy
+Shortest path: ['food', 'product', 'dressed', 'artificial physical object', 'textile', 'base material', 'greasy']
+['food', 'product', 'dressed', 'textile', 'greasy']
+
+Path from server to greasy
+Shortest path: ['server', 'system', 'clutter', 'device', 'machine', 'lift', 'mode of transport', 'cycling', 'activity', 'industry', 'paints', 'base material', 'greasy']
+['server', 'system', 'lift', 'paints', 'greasy']
+
+
+-------------------------------------------------------------------------
+
+TRAIT 1: baking tarts relaxes me. (Entities: baking, tarts)
+TRAIT 2: i work at a checkout. (Entities: work, checkout)
+
+Path from baking to work
+Shortest path: ['baking', 'engineering process', 'manufacturing', 'service', 'commercials', 'creative work', 'toy', 'product', 'dressed', 'work']
+['baking', 'commercials', 'product', 'dressed', 'work']
+
+Path from baking to checkout
+Shortest path: ['baking', 'engineering process', 'construction', 'occurrence', 'checkout']
+
+
+------------------------------------------------------------------------------
+
+{(0, 0): (' i try to avoid driving short distances when able.\n', ' i work at mcdonalds.\n'), ('short', 'work'): (['short', 'film', 'audiovisual work', 'audiobooks', 'books', 'publication', 'article', 'work'], ['short', 'books', 'publication', 'article', 'work'])}
+
+{(0, 0): (' i finished college 2 years ago.\n', ' i do not have to be at school at this moment.\n'), ('2 years', 'school'): [], ('2 years', 'at'): [], ('college', 'school'): (['college', 'higher education institution', 'university', 'educational institution', 'school'], []), ('college', 'at'): []}
+
+{(0, 0): (' i spend a lot of time on the computer.\n', ' i prefer wearing a belt.\n'), ('computer', 'belt'): [], ('computer', 'prefer'): (['computer', 'personal computer', 'laptop', 'macbook', 'device', 'machine', 'lift', 'mode of transport', 'cycling', 'activity', 'sport', 'swimmer', 'human action', 'choice', 'prefer'], ['computer', 'activity', 'sport', 'choice', 'prefer']), ('spend', 'belt'): [], ('spend', 'prefer'): []}
+
+{(0, 0): (' i am rather short.\n', ' i do not like blue.\n'), ('short', 'blue'): (['short', 'film', 'audiovisual work', 'musical', 'musical work', 'song', 'musical composition', 'instrumental songs', 'music', 'sound', 'absence', 'color', 'green', 'light', 'blue'], ['short', 'absence', 'green', 'light', 'blue'])}
+
+{(0, 0): (' i am often successful at ocean fishing.\n', ' i enjoy a few brews by the river.\n'), ('successful', 'few'): [], ('successful', 'brews'): [], ('ocean', 'few'): [], ('ocean', 'brews'): (['ocean', 'geographic location', 'park', 'green space', 'garden', 'work', 'dressed', 'product', 'software', 'creative work', 'commercials', 'service', 'manufacturing', 'brews'], ['ocean', 'dressed', 'product', 'software', 'brews'])}
+
+{(0, 0): (' i do not eat healthy.\n', ' i consume unhealthy foods.\n'), ('healthy', 'unhealthy foods'): (['healthy', 'absence', 'sound', 'music', 'entertainment', 'industry', 'paints', 'base material', 'textile', 'artificial physical object', 'dressed', 'product', 'food', 'unhealthy foods'], ['healthy', 'paints', 'textile', 'dressed', 'unhealthy foods']), ('healthy', 'consume'): [], ('eat', 'unhealthy foods'): [], ('eat', 'consume'): []}
+
+{(0, 0): (' i am studying a new language in school.\n', ' i love foreign animated shows.\n'), ('school', 'love'): (['school', 'school', 'architectural structure', 'ruined', 'artificial entity', 'textile', 'base material', 'paints', 'industry', 'activity', 'art', 'being creative', 'mental process', 'emotion', 'love'], ['school', 'school', 'school', 'school', 'love'])}
+
+{(0, 0): (' i have a crotch rocket.\n', ' i am employed.\n'), ('crotch rocket', 'employed'): (['crotch rocket', 'motorcycle', 'two-wheeler', 'bicycle', 'sports equipment', 'ball', 'toy', 'product', 'beauty products', 'chemical substance', 'plastic', 'base material', 'paints', 'industry', 'employed'], ['crotch rocket', 'sports equipment', 'chemical substance', 'base material', 'employed'])}
+
+{(0, 0): (' i like to work with my hands.\n', ' my parents are of caribbean and the oriental descent.\n'), ('work', 'caribbean'): [], ('work', 'descent'): (['work', 'dressed', 'artificial physical object', 'textile', 'base material', 'paints', 'industry', 'agricultural', 'academic discipline', 'descent'], ['work', 'industry', 'agricultural', 'academic discipline', 'descent']), ('hands', 'caribbean'): [], ('hands', 'descent'): []}
+[Entity Linker]: Status code 500
+Something wrong happened. Check the status of the entity linking server and its endpoint.
+
+{(0, 0): (' i have a snoopy pet.\n', ' i love wasting time on the internet.\n'), ('pet', 'on'): [], ('pet', 'love'): (['pet', 'goods', 'textile', 'base material', 'paints', 'industry', 'activity', 'art', 'being creative', 'mental process', 'emotion', 'love'], ['pet', 'paints', 'industry', 'emotion', 'love']), ('snoopy', 'on'): [], ('snoopy', 'love'): []}
+
+{(0, 0): (' i love going to the museum.\n', ' seafood is my favorite kind of food.\n'), ('museum', 'seafood'): (['museum', 'public places', 'park', 'green space', 'garden', 'work', 'dressed', 'product', 'food', 'seafood'], ['museum', 'park', 'product', 'food', 'seafood']), ('museum', 'food'): (['museum', 'public places', 'park', 'green space', 'garden', 'work', 'dressed', 'product', 'food'], ['museum', 'park', 'work', 'product', 'food']), ('love', 'seafood'): (['love', 'emotion', 'mental process', 'attentive', 'cognition', 'learning', 'education', 'service', 'commercials', 'creative work', 'software', 'product', 'food', 'seafood'], ['love', 'software', 'product', 'food', 'seafood']), ('love', 'food'): (['love', 'emotion', 'mental process', 'attentive', 'cognition', 'learning', 'education', 'service', 'commercials', 'creative work', 'software', 'product', 'food'], ['love', 'emotion', 'software', 'product', 'food'])}
+
+{(0, 0): (' eating snacks in the park is one of my favorite things.\n', ' i rest in a bedroom for someone younger.\n'), ('snacks', 'bedroom'): [], ('snacks', 'rest'): [], ('park', 'bedroom'): (['park', 'architectural structure', 'room', 'bedroom'], []), ('park', 'rest'): []}
+
+{(0, 0): (' i own a cute puppy.\n', ' my parents gave me a lot of money so i do not work.\n'), ('cute', 'work'): [], ('cute', 'money'): [], ('puppy', 'work'): (['puppy', 'canine', 'pet', 'goods', 'textile', 'artificial physical object', 'dressed', 'work'], ['puppy', 'canine', 'goods', 'textile', 'work']), ('puppy', 'money'): []}
+
+{(0, 0): (' i like sweets and dessert.\n', ' my puppy is called georgie.\n'), ('sweets', 'georgie'): [], ('sweets', 'puppy'): (['sweets', 'confections', 'cookie', 'brisket', 'food', 'product', 'dressed', 'artificial physical object', 'textile', 'goods', 'pet', 'canine', 'puppy'], ['sweets', 'cookie', 'textile', 'goods', 'puppy']), ('dessert', 'georgie'): [], ('dessert', 'puppy'): (['dessert', 'landscapes', 'garden', 'work', 'dressed', 'artificial physical object', 'textile', 'goods', 'pet', 'canine', 'puppy'], ['dessert', 'landscapes', 'dressed', 'canine', 'puppy'])}

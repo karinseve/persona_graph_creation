@@ -1,0 +1,2639 @@
+love	love
+emotion	emotion
+condition	condition
+state	state
+occurrence	occurrence
+process	process
+change	change
+series	series
+group	group
+object	object
+design	design
+activity	activity
+action	action
+house	house
+building	building
+residence	residence
+facility	facility
+location	location
+work	work
+construction	construction
+product	product
+structure	structure
+killing	killing
+sports	sports
+motion	motion
+motion	motion
+hobby	hobby
+shot	shot
+dishes	dishes
+tool	tool
+product	product
+equipment	equipment
+good	good
+arrow	arrow
+armament	armament
+device	device
+clothing	clothing
+up	up
+favorite	favorite
+on	on
+folk_music	folk music
+music	music
+art	art
+sound	sound
+entertainment	entertainment
+culture	culture
+traditional	traditional
+recreation	recreation
+arts	arts
+custom	custom
+industry	industry
+waves	waves
+humanities	humanities
+class	class
+knowledge	knowledge
+system	system
+class	class
+quality	quality
+belief	belief
+education	education
+learning	learning
+service	service
+large	large
+organ	organ
+part	part
+healthy	healthy
+race	race
+race	race
+name	name
+sign	sign
+information	information
+pet	pet
+mammal	mammal
+animals	animals
+individual	individual
+individual	individual
+creature	creature
+captivity	captivity
+judgment	judgment
+fact	fact
+meaning	meaning
+meaning	meaning
+representation	representation
+relation	relation
+a	a
+type	type
+running	running
+younger	younger
+carnivore	carnivore
+carnivore	carnivore
+mother	mother
+woman	woman
+parent	parent
+adult	adult
+kin	kin
+human	human
+person	person
+subject	subject
+agent	agent
+person	person
+5	5
+kids	kids
+fairy_tales	fairy tales
+tale	tale
+admire	admire
+lipton	lipton
+drink	drink
+food	food
+fluid	fluid
+substance	substance
+food	food
+matter	matter
+words	words
+health_professional	health professional
+professional	professional
+worker	worker
+title	title
+trade	trade
+grant	grant
+exchange	exchange
+expensive	expensive
+theory	theory
+chicago	chicago
+could	could
+love_art	love art
+style	style
+genre	genre
+enjoy	enjoy
+computer	computer
+machine	machine
+telephone	telephone
+would	would
+skydiving	skydiving
+aspiring	aspiring
+tell	tell
+jokes	jokes
+stage	stage
+performing_arts	performing arts
+people	people
+country	country
+rock_music	rock music
+judgment	judgment
+allergic	allergic
+rare	rare
+disease	disease
+shape	shape
+glasses	glasses
+solid	solid
+headache	headache
+pain	pain
+dark_eyes	dark eyes
+outdoor_recreation	outdoor recreation
+outdoor_sports	outdoor sports
+dislike	dislike
+orange	orange
+vegetables	vegetables
+ballpark	ballpark
+arena	arena
+youth	youth
+event	event
+magic	magic
+competitions	competitions
+made	made
+technology	technology
+about_science	about science
+print	print
+egypt	egypt
+at	at
+making	making
+movies	movies
+documentary	documentary
+non_fiction	non fiction
+image	image
+communication	communication
+eat	eat
+lot	lot
+comes	comes
+count	count
+politician	politician
+leader	leader
+rank	rank
+position	position
+role	role
+role	role
+unit	unit
+structure	structure
+same	same
+sex	sex
+institution	institution
+organization	organization
+nice	nice
+car	car
+wheeled_vehicle	wheeled vehicle
+vehicle	vehicle
+mode_of_transport	mode of transport
+means	means
+wedding	wedding
+set	set
+collection	collection
+april_11	april 11
+possess	possess
+death_carriage	death carriage
+knit	knit
+presents	presents
+old_school	old school
+scary_movies	scary movies
+italian_cuisine	italian cuisine
+suspense	suspense
+sand	sand
+rocks	rocks
+source	source
+one	one
+offspring	offspring
+quarterback	quarterback
+flow	flow
+united	united
+bigger	bigger
+dog	dog
+clean	clean
+see	see
+seat	seat
+hue	hue
+go	go
+shopping	shopping
+listen	listen
+clothes	clothes
+serious	serious
+color	color
+light	light
+celebrate	celebrate
+friend	friend
+study	study
+businessman	businessman
+student	student
+toes	toes
+digit	digit
+time	time
+work	work
+few	few
+eureka	eureka
+learn	learn
+marriage	marriage
+nyc	nyc
+sister	sister
+journalist	journalist
+hail	hail
+water	water
+bucks	bucks
+best	best
+team	team
+earth	earth
+week	week
+single_day	single day
+handle	handle
+cash	cash
+travel	travel
+money	money
+model	model
+apples	apples
+fruit	fruit
+fruit	fruit
+love_phones	love phones
+need	need
+more	more
+hike	hike
+live	live
+dad	dad
+novels	novels
+fiction	fiction
+fiction	fiction
+literature	literature
+30	30
+check	check
+document	document
+write	write
+mob_movies	mob movies
+bibliophile	bibliophile
+library	library
+collection	collection
+collection	collection
+software	software
+voice	voice
+stay_up	stay up
+career	career
+physical	physical
+performances	performances
+read_music	read music
+huge	huge
+fan	fan
+poodle	poodle
+vegas	vegas
+colorado	colorado
+adopt	adopt
+adore	adore
+employed	employed
+general_electrics	general electrics
+fun	fun
+want	want
+sing	sing
+about	about
+commander	commander
+army	army
+exciting	exciting
+plants	plants
+support	support
+basketball	basketball
+team_sport	team sport
+game	game
+playing	playing
+protest	protest
+area	area
+intrigue	intrigue
+element	element
+element	element
+function	function
+relation	relation
+institute	institute
+juice	juice
+juice	juice
+business	business
+warm	warm
+weather	weather
+year	year
+past_time	past time
+private	private
+university	university
+higher_education_institution	higher education institution
+done	done
+mexican_food	mexican food
+cuisine	cuisine
+mosh_pits	mosh pits
+dance	dance
+job	job
+ear	ear
+eyes	eyes
+love_pop	love pop
+pop_music	pop music
+fans	fans
+take	take
+pics	pics
+seeing	seeing
+bucket_list	bucket list
+listening	listening
+led_zeppelin	led zeppelin
+short	short
+floating	floating
+river	river
+body_of_water	body of water
+place_of_residence	place of residence
+purples	purples
+hair	hair
+use	use
+barber	barber
+snow_sports	snow sports
+snack	snack
+leadership	leadership
+safeway	safeway
+visit	visit
+border	border
+command	command
+end	end
+mark	mark
+point	point
+exercise	exercise
+mind_and_body	mind and body
+frankie	frankie
+dad_calls	dad calls
+professional	professional
+corporation	corporation
+company	company
+organ	organ
+continuing	continuing
+work_out	work out
+exercise	exercise
+fat	fat
+hospital	hospital
+medical_facility	medical facility
+moving	moving
+position	position
+ride	ride
+pastries	pastries
+deathly_afraid	deathly afraid
+fear	fear
+anxious	anxious
+mental_illness	mental illness
+halloween_costumes	halloween costumes
+lover	lover
+domain	domain
+kitchen	kitchen
+room	room
+space	space
+share	share
+flat	flat
+thriller	thriller
+die	die
+passionate	passionate
+eating	eating
+hungry	hungry
+culture	culture
+test	test
+method	method
+finding	finding
+tv	tv
+viewing	viewing
+living	living
+explorer	explorer
+catch	catch
+sea_bass	sea bass
+mechanic	mechanic
+will	will
+tanked	tanked
+brothers_wife	brothers wife
+wrinkles	wrinkles
+wrinkle	wrinkle
+shooting	shooting
+meals	meals
+process	process
+ad	ad
+school	school
+school	school
+kittens	kittens
+couple	couple
+moment	moment
+moment	moment
+volunteer	volunteer
+rescue	rescue
+sci_fi	sci fi
+different_taste	different taste
+snacks	snacks
+reptiles	reptiles
+act	act
+conductor	conductor
+odd_jobs	odd jobs
+help	help
+community	community
+meat	meat
+nor	nor
+dairy	dairy
+cow	cow
+cows	cows
+female	female
+bored	bored
+big	big
+trips	trips
+ocean	ocean
+pay	pay
+divorce	divorce
+split	split
+night_time	night time
+class	class
+male	male
+smart	smart
+relocate	relocate
+ton	ton
+complete	complete
+map	map
+siblings	siblings
+different	different
+wish	wish
+join	join
+turn	turn
+21	21
+fond	fond
+indigo	indigo
+dye	dye
+dye	dye
+identify	identify
+trans	trans
+gender	gender
+try	try
+new_foods	new foods
+trying	trying
+post_college	post college
+higher_education	higher education
+psychology	psychology
+pepperoni	pepperoni
+berry	berry
+spicy_cuisine	spicy cuisine
+topping	topping
+tree	tree
+green	green
+flowers	flowers
+bloom	bloom
+no	no
+hear	hear
+can	can
+tears	tears
+heart	heart
+proud	proud
+us_sailor	us sailor
+things	things
+seafood	seafood
+natural	natural
+brunette	brunette
+books	books
+candy	candy
+confections	confections
+fresh	fresh
+mongering	mongering
+oil_paintings	oil paintings
+painting	painting
+dominos	dominos
+certain	certain
+flatulence	flatulence
+access_to	access to
+southern	southern
+orphan	orphan
+early_age	early age
+history	history
+keep	keep
+tower	tower
+company	company
+intelligence	intelligence
+fish	fish
+key_west	key west
+arts_and_crafts	arts and crafts
+buy_things	buy things
+dancing	dancing
+fun_to	fun to
+sick	sick
+future	future
+drive	drive
+take_care	take care
+hate	hate
+overtime	overtime
+foreign	foreign
+language	language
+costumes	costumes
+guess	guess
+spend	spend
+spare_time	spare time
+staring	staring
+sky	sky
+space	space
+face	face
+pig	pig
+father	father
+man	man
+fly	fly
+delta	delta
+internet	internet
+soy	soy
+products	products
+bought	bought
+caretaker	caretaker
+thing	thing
+routine	routine
+everyday	everyday
+reading	reading
+daydream	daydream
+prefer	prefer
+choice	choice
+beginning	beginning
+vampires	vampires
+mythical_creature	mythical creature
+extra	extra
+well	well
+bound	bound
+wheelchair	wheelchair
+chair	chair
+furniture	furniture
+seat	seat
+curate	curate
+priest	priest
+cleric	cleric
+vegetarian	vegetarian
+lifestyle	lifestyle
+diet	diet
+biology	biology
+pale_skin	pale skin
+language_arts	language arts
+language	language
+putting	putting
+face	face
+side	side
+half	half
+fraction	fraction
+shape	shape
+real	real
+number	number
+healthier	healthier
+choices	choices
+disability	disability
+hard_time	hard time
+medical_emergency	medical emergency
+operate	operate
+car	car
+manual_transmission	manual transmission
+transmission	transmission
+east	east
+police_officer	police officer
+rig	rig
+hands	hands
+pilot	pilot
+metal_bands	metal bands
+graduate	graduate
+veteran	veteran
+employee	employee
+through	through
+serve	serve
+bars	bars
+weekends	weekends
+call	call
+ghetto	ghetto
+neighbors	neighbors
+community	community
+homes	homes
+loud	loud
+terrible	terrible
+illness	illness
+cok	cok
+opinions	opinions
+flight	flight
+enter	enter
+stop	stop
+phone	phone
+wonder	wonder
+selling	selling
+coaching	coaching
+dating	dating
+bands	bands
+shopaholic	shopaholic
+addicted	addicted
+skateboard	skateboard
+skiing	skiing
+hated	hated
+mutt	mutt
+horsepower	horsepower
+punk_rock	punk rock
+rock_music	rock music
+watching	watching
+japanese_cartoons	japanese cartoons
+pro	pro
+cleaner	cleaner
+patient	patient
+crew	crew
+series	series
+activities	activities
+plotting	plotting
+hiking	hiking
+favorites	favorites
+flip_phone	flip phone
+attractive	attractive
+raise	raise
+member	member
+member	member
+profession	profession
+job	job
+work	work
+work	work
+military	military
+quiet	quiet
+breathing	breathing
+avid	avid
+means	means
+mean	mean
+past	past
+laugh	laugh
+pleasure	pleasure
+cook	cook
+older	older
+walks	walks
+bicycle	bicycle
+mode_of_transportation	mode of transportation
+or	or
+grunge	grunge
+alternative_rock	alternative rock
+ice	ice
+city	city
+urban_area	urban area
+string	string
+string	string
+cord	cord
+rock_star	rock star
+3_brothers	3 brothers
+brothers_and_sisters	brothers and sisters
+baby	baby
+children	children
+lunch	lunch
+medical_school	medical school
+institute	institute
+tired	tired
+line	line
+line	line
+stay	stay
+facility	facility
+management	management
+control	control
+control	control
+housing	housing
+mature	mature
+lady	lady
+sweet	sweet
+pretty	pretty
+violin	violin
+string_instrument	string instrument
+string_instruments	string instruments
+missed	missed
+roti	roti
+tandoori_chicken	tandoori chicken
+chicken	chicken
+dish	dish
+rn	rn
+getting	getting
+puppy	puppy
+daily	daily
+periodical	periodical
+astronaut	astronaut
+problem	problem
+boat	boat
+summer	summer
+season	season
+foodie	foodie
+grass	grass
+retired	retired
+embrace	embrace
+redneck	redneck
+singing	singing
+breed	breed
+cleans	cleans
+nintendo	nintendo
+total	total
+eclipse	eclipse
+volumes	volumes
+volume	volume
+construction	construction
+creation	creation
+repair	repair
+ethnic	ethnic
+roofs	roofs
+teen	teen
+potatoes	potatoes
+alcohol	alcohol
+unwind	unwind
+push	push
+super_car	super car
+sports_car	sports car
+england	england
+college	college
+last	last
+hired	hired
+months	months
+collegiate	collegiate
+first_post	first post
+environment	environment
+surroundings	surroundings
+good_role_model	good role model
+graphic_novels	graphic novels
+collect	collect
+dairy_product	dairy product
+sports_memorabilia	sports memorabilia
+allow	allow
+body	body
+body	body
+earthy	earthy
+beagles	beagles
+beer	beer
+alcoholic_beverage	alcoholic beverage
+group	group
+lemon	lemon
+meringue	meringue
+california	california
+cameras	cameras
+fantasy	fantasy
+hope	hope
+bake	bake
+glad	glad
+fake	fake
+strong	strong
+breakfast	breakfast
+down	down
+scooter	scooter
+motorcycles	motorcycles
+feel	feel
+awkward	awkward
+off	off
+mastered	mastered
+beautiful_wife	beautiful wife
+responsibility	responsibility
+finance	finance
+snow	snow
+poor	poor
+creative	creative
+working	working
+third_grade	third grade
+thoughts	thoughts
+diego_maradona	diego maradona
+fantasy	fantasy
+south	south
+tooth_fairy	tooth fairy
+fancier	fancier
+eating	eating
+chips	chips
+cheese	cheese
+scary_monsters	scary monsters
+gamer	gamer
+harder	harder
+news	news
+one_day	one day
+patience	patience
+seizures	seizures
+pool	pool
+dip	dip
+golden_retriever	golden retriever
+station	station
+radio	radio
+communications	communications
+body_art	body art
+painting	painting
+john_hughes_films	john hughes films
+commute	commute
+desert	desert
+landscapes	landscapes
+birthday	birthday
+anniversary	anniversary
+boys	boys
+treats	treats
+meal	meal
+seen	seen
+social	social
+born	born
+knee_highs	knee highs
+footwear	footwear
+cow	cow
+variety	variety
+restaurant	restaurant
+shop	shop
+manufacturing	manufacturing
+production	production
+character	character
+major	major
+officer	officer
+spent	spent
+medical_field	medical field
+two	two
+brothers	brothers
+eat_animal	eat animal
+watercolors	watercolors
+rower	rower
+water_sport	water sport
+saw	saw
+look	look
+devour	devour
+concerts	concerts
+musical_performance	musical performance
+show	show
+started	started
+pitcher	pitcher
+stuff	stuff
+virtual_reality	virtual reality
+experiment	experiment
+brews	brews
+successful	successful
+fishing	fishing
+hunting	hunting
+killing	killing
+complicated	complicated
+european_football	european football
+shoes	shoes
+name_brand	name brand
+football	football
+football	football
+environment	environment
+workers	workers
+goal	goal
+success	success
+bank	bank
+financial_institution	financial institution
+care	care
+grandparents	grandparents
+saturday	saturday
+sunday	sunday
+bilingual	bilingual
+starbucks	starbucks
+cafe	cafe
+player	player
+key	key
+miles_davis	miles davis
+work_with_numbers	work with numbers
+scary	scary
+bright	bright
+first_shooter_video_games	first shooter video games
+video_games	video games
+feel	feel
+partner	partner
+understand	understand
+take_in	take in
+battle	battle
+white	white
+move	move
+walking_with	walking with
+toddlers	toddlers
+s	s
+fit	fit
+teach	teach
+fam	fam
+high_places	high places
+cold	cold
+stand	stand
+surfing	surfing
+equestrian	equestrian
+membership	membership
+bookkeeping	bookkeeping
+smartphone	smartphone
+star	star
+locations	locations
+drive	drive
+control	control
+looking	looking
+boating	boating
+spare	spare
+pythons	pythons
+blankets	blankets
+rainbow	rainbow
+evenings	evenings
+cartoons	cartoons
+sugar	sugar
+drug	drug
+positive_attitude	positive attitude
+recognized	recognized
+serve_up	serve up
+talkative	talkative
+loved	loved
+24	24
+guest	guest
+teller	teller
+thrill_seeker	thrill seeker
+accident	accident
+risk	risk
+license	license
+permit	permit
+list	list
+past_times	past times
+rap	rap
+girlfriends	girlfriends
+alcoholic_beverages	alcoholic beverages
+t_o	t o
+colored	colored
+suv	suv
+teeth	teeth
+tooth	tooth
+fitness	fitness
+feet	feet
+georgia	georgia
+iin	iin
+previous	previous
+recruiter	recruiter
+time_warner	time warner
+squad	squad
+competitive_dance	competitive dance
+east_coaster	east coaster
+blog	blog
+social_media	social media
+passed_away	passed away
+down_under	down under
+lounge	lounge
+folks	folks
+roses	roses
+good_book	good book
+public	public
+debt	debt
+k	k
+metal	metal
+farmer	farmer
+cool	cool
+read	read
+quality_tools	quality tools
+create	create
+philanthropy	philanthropy
+dream	dream
+letter	letter
+less	less
+soundtrack	soundtrack
+motivation	motivation
+gym	gym
+government	government
+urban	urban
+dweller	dweller
+eccentric	eccentric
+indiana_university	indiana university
+catching	catching
+trains	trains
+graph	graph
+law	law
+2_boys	2 boys
+1_girl	1 girl
+congregation	congregation
+congregation	congregation
+sharks	sharks
+walk_through	walk through
+hit	hit
+alot	alot
+attractions	attractions
+state	state
+riding	riding
+state	state
+maple_syrup	maple syrup
+syrup	syrup
+stand_up	stand up
+pasta	pasta
+spoil	spoil
+charge	charge
+close	close
+weights	weights
+enlighten	enlighten
+young	young
+minds	minds
+household	household
+repair	repair
+plumbing	plumbing
+tetris	tetris
+root	root
+stretching	stretching
+hole	hole
+practice	practice
+convention	convention
+exclusive	exclusive
+speaking	speaking
+inflection	inflection
+dialects	dialects
+lect	lect
+german	german
+videos	videos
+mexican_cuisine	mexican cuisine
+sun	sun
+place	place
+care	care
+clue	clue
+talk	talk
+italian_food	italian food
+position	position
+posture	posture
+order	order
+teacher	teacher
+elementary_school	elementary school
+singer	singer
+names	names
+crimson	crimson
+red	red
+pink	pink
+locks	locks
+position	position
+west_coast	west coast
+pick_up	pick up
+truck	truck
+gross	gross
+zombie	zombie
+detroit	detroit
+30s	30s
+cute	cute
+problems	problems
+break	break
+rash	rash
+broadway	broadway
+striped	striped
+coast	coast
+shore	shore
+wear	wear
+skirts	skirts
+plank	plank
+wheels	wheels
+batman	batman
+screen	screen
+boyfriend	boyfriend
+possible	possible
+suburbs	suburbs
+girls	girls
+carrots	carrots
+immature	immature
+ask	ask
+reach	reach
+speed	speed
+power	power
+oil	oil
+buddies	buddies
+kid	kid
+dark	dark
+blue_eyes	blue eyes
+rural_area	rural area
+walking	walking
+fast_food	fast food
+alarm	alarm
+wake	wake
+cosplay	cosplay
+home_land	home land
+lift	lift
+supermarket	supermarket
+run	run
+fixing	fixing
+audiobooks	audiobooks
+cuddling	cuddling
+dr	dr
+said	said
+sitting	sitting
+lit	lit
+studying	studying
+introvert	introvert
+run	run
+lute	lute
+arguments	arguments
+steered	steered
+nascar	nascar
+jump	jump
+plane	plane
+aircraft	aircraft
+lactose_intolerant	lactose intolerant
+fantastic	fantastic
+midget	midget
+beautiful_girl	beautiful girl
+character	character
+june	june
+martial_arts	martial arts
+solipsist	solipsist
+attitude	attitude
+social_events	social events
+receive	receive
+existence	existence
+9	9
+musician	musician
+screen	screen
+tech	tech
+sisters_or	sisters or
+dolls	dolls
+play	play
+drama	drama
+advertising_agency	advertising agency
+good_time	good time
+wants	wants
+difference	difference
+grind	grind
+heavy_metal	heavy metal
+apartment	apartment
+lesbian	lesbian
+dauber	dauber
+pretending	pretending
+unmotivated	unmotivated
+illness	illness
+failing	failing
+wealthy	wealthy
+open_road	open road
+amateur	amateur
+government	government
+winter_sports	winter sports
+moscow	moscow
+entrepreneur	entrepreneur
+closet	closet
+top	top
+beats	beats
+one_thing	one thing
+graduated	graduated
+justice	justice
+degree	degree
+rifle	rifle
+shooting	shooting
+deer	deer
+date	date
+sketching	sketching
+nursing	nursing
+country_music	country music
+love_nature	love nature
+pride	pride
+fresh_produce	fresh produce
+jam	jam
+dressage	dressage
+equestrian_sport	equestrian sport
+movement	movement
+comic_book_heroes	comic book heroes
+hero	hero
+wait	wait
+7	7
+win	win
+erotic_novels	erotic novels
+chef	chef
+listen_to_music	listen to music
+mountain	mountain
+lazy	lazy
+public	public
+ninja_turtles	ninja turtles
+manhattan	manhattan
+stock_exchange	stock exchange
+exchange	exchange
+market	market
+piano	piano
+evidence_based_approach	evidence based approach
+succeed	succeed
+subjects	subjects
+algebra	algebra
+uncool	uncool
+cutting_edge	cutting edge
+particular	particular
+blues	blues
+romance	romance
+item	item
+1800	1800
+calorie	calorie
+preferred	preferred
+hours	hours
+model_of_car	model of car
+model	model
+multi_millionaire	multi millionaire
+spoke	spoke
+fried	fried
+catfish	catfish
+delicious	delicious
+racer	racer
+professional_car	professional car
+monopoly	monopoly
+risk	risk
+skills	skills
+homeless_shelter	homeless shelter
+debt	debt
+loan	loan
+ran	ran
+france	france
+cafe_latte	cafe latte
+caffeinated_drink	caffeinated drink
+commitment	commitment
+3	3
+town	town
+left	left
+10	10
+calendar	calendar
+tough	tough
+childhood	childhood
+jeans	jeans
+slacks	slacks
+shirts	shirts
+pub	pub
+stairs	stairs
+bit	bit
+sales	sales
+garden	garden
+land	land
+waist	waist
+chestnut	chestnut
+waitress	waitress
+distance	distance
+hatred	hatred
+believe	believe
+heartbroken	heartbroken
+park	park
+red_robin	red robin
+nights	nights
+rest	rest
+focus	focus
+chat	chat
+companions	companions
+strong_social_skills	strong social skills
+grades	grades
+teh	teh
+rights	rights
+pair	pair
+graphic_design	graphic design
+front	front
+zero	zero
+desire	desire
+manage	manage
+athlete	athlete
+artist	artist
+common_name	common name
+came_out	came out
+cast	cast
+fire	fire
+putting_out	putting out
+europe	europe
+unemployed	unemployed
+dance	dance
+sounds	sounds
+beating	beating
+crime	crime
+map	map
+mario	mario
+takeout	takeout
+barbeque	barbeque
+nutritious	nutritious
+chow_down	chow down
+grocery	grocery
+retail	retail
+hue	hue
+organize	organize
+idea	idea
+autumn	autumn
+bird	bird
+facial_hair	facial hair
+facial_hair	facial hair
+specific	specific
+type	type
+multiplayer_online_battle_arena	multiplayer online battle arena
+taxis	taxis
+sweet_tooth	sweet tooth
+acdc	acdc
+clan	clan
+sports_team	sports team
+determined	determined
+gets	gets
+invested	invested
+homeowner	homeowner
+60s	60s
+sculpting	sculpting
+bespectacled	bespectacled
+lens	lens
+agility	agility
+require	require
+mass	mass
+ritual	ritual
+cinema	cinema
+songs	songs
+caffeine	caffeine
+reality	reality
+program	program
+program	program
+name	name
+crustaceans	crustaceans
+washington	washington
+pigskin	pigskin
+fighting	fighting
+term	term
+deal	deal
+give_back	give back
+low_self_esteem	low self esteem
+regret	regret
+nose	nose
+bagging	bagging
+ike	ike
+right	right
+morning	morning
+oatmeal	oatmeal
+lay_down	lay down
+blow	blow
+soda	soda
+board_games	board games
+neon_colors	neon colors
+gas	gas
+fantasy	fantasy
+frequency	frequency
+box	box
+talents	talents
+contestants	contestants
+participant	participant
+player	player
+reality_tv	reality tv
+garden	garden
+warm_colors	warm colors
+scarf	scarf
+daughter	daughter
+child	child
+guitar_player	guitar player
+carve_wood	carve wood
+craft	craft
+circle	circle
+height	height
+height	height
+length	length
+distances	distances
+missing	missing
+authentic	authentic
+bad	bad
+sucker	sucker
+british	british
+red_head	red head
+imagination	imagination
+insects	insects
+planning	planning
+plan	plan
+events	events
+page	page
+say	say
+stripes	stripes
+large_cat	large cat
+gingers	gingers
+native	native
+people	people
+berliner	berliner
+comment	comment
+agriculture	agriculture
+wreck	wreck
+ship	ship
+vessel	vessel
+sausage	sausage
+meat_product	meat product
+dress	dress
+suit	suit
+fractional_representations	fractional representations
+casino	casino
+tone	tone
+stress	stress
+confused	confused
+one_man	one man
+and_one	and one
+trumpet	trumpet
+multiple	multiple
+purchase	purchase
+inches	inches
+six	six
+wise	wise
+images	images
+respected	respected
+nerdy	nerdy
+funny	funny
+racket	racket
+bat	bat
+ball	ball
+toy	toy
+participate_in	participate in
+moms	moms
+employees	employees
+average_size	average size
+size	size
+chevy	chevy
+chartreuse	chartreuse
+reeks	reeks
+dead_fish	dead fish
+mane	mane
+lie	lie
+musical	musical
+sunshine	sunshine
+resting	resting
+difference	difference
+helpe	helpe
+old	old
+age	age
+author	author
+bucket	bucket
+sea_creatures	sea creatures
+beef	beef
+stories	stories
+pennsylvania	pennsylvania
+virginia	virginia
+medical_condition	medical condition
+actress	actress
+naruto	naruto
+sketch	sketch
+africa	africa
+function	function
+anger	anger
+jaguar	jaguar
+clubs	clubs
+drinking	drinking
+hang	hang
+start	start
+apply	apply
+stick	stick
+paleo_diet	paleo diet
+fridays	fridays
+planning	planning
+king_five	king five
+ideal	ideal
+quality	quality
+add	add
+lost	lost
+gamble	gamble
+halloween	halloween
+prawns	prawns
+yummy	yummy
+dropped	dropped
+ketchup	ketchup
+sauce	sauce
+wasting_time	wasting time
+snoopy	snoopy
+versed	versed
+bowling	bowling
+bowling	bowling
+tied_down	tied down
+hold_up	hold up
+law_enforcement	law enforcement
+enforcement	enforcement
+wooden	wooden
+rocking_chairs	rocking chairs
+rocky	rocky
+weld	weld
+oven	oven
+square	square
+regular	regular
+kite	kite
+cage	cage
+boom	boom
+fancy	fancy
+spanish	spanish
+hard_time	hard time
+met	met
+teenager	teenager
+teens	teens
+gluten_allergy	gluten allergy
+important	important
+gift	gift
+gift	gift
+gotten	gotten
+celebrity	celebrity
+cookie	cookie
+long_title	long title
+chasing	chasing
+engineering	engineering
+15	15
+pilates	pilates
+fixes	fixes
+classic	classic
+hairstyle	hairstyle
+mozart	mozart
+wanted	wanted
+mohawk	mohawk
+hear	hear
+hard_rock	hard rock
+family_business	family business
+shot	shot
+office	office
+watching	watching
+netflix	netflix
+bed	bed
+mate	mate
+french_frie	french frie
+ink	ink
+layer	layer
+bag_boy	bag boy
+uni	uni
+door	door
+planter	planter
+project	project
+cashier	cashier
+sanitation	sanitation
+intelligence_test	intelligence test
+middle_school	middle school
+gaze	gaze
+stare	stare
+condensing	condensing
+opportunities	opportunities
+4	4
+son	son
+madrid	madrid
+supportive	supportive
+experienced	experienced
+zoologist	zoologist
+forgiving	forgiving
+ice	ice
+consume	consume
+diet	diet
+interesting	interesting
+rain_forest	rain forest
+hops	hops
+barley	barley
+sleep	sleep
+buddy	buddy
+athletes	athletes
+customers	customers
+poker	poker
+competition	competition
+little_shop	little shop
+shop_on_main_street	shop on main street
+sure	sure
+blast	blast
+grub	grub
+major_studio	major studio
+muse	muse
+server	server
+greasy	greasy
+superhero_movies	superhero movies
+self_published	self published
+quitting	quitting
+luck	luck
+acceptance	acceptance
+general	general
+board	board
+imaginary	imaginary
+dude	dude
+lectures	lectures
+jager	jager
+decades	decades
+decade	decade
+heir	heir
+throne	throne
+related	related
+alicia_silverstone	alicia silverstone
+broke	broke
+flexibility	flexibility
+flexibility	flexibility
+en_masse	en masse
+den	den
+religion	religion
+ideas	ideas
+teenage_years	teenage years
+begin	begin
+nfl	nfl
+fix	fix
+plastic	plastic
+midnight	midnight
+salon	salon
+love_peace_and_love	love peace and love
+helping	helping
+dynamic	dynamic
+brown	brown
+gold	gold
+studs	studs
+today	today
+entrees	entrees
+papa_johns	papa johns
+blessed	blessed
+parking	parking
+driving	driving
+vans	vans
+wonderful	wonderful
+12	12
+plan	plan
+22	22
+articles	articles
+new_car	new car
+mixed	mixed
+violinist	violinist
+ot	ot
+period	period
+hats	hats
+belong	belong
+frightened	frightened
+hard_rock	hard rock
+ankle	ankle
+crowd	crowd
+protest	protest
+stable	stable
+shelter	shelter
+tons	tons
+trainer	trainer
+fishing_vessel	fishing vessel
+dine	dine
+smooth	smooth
+calm	calm
+gene	gene
+survivor	survivor
+carbs	carbs
+pursuing	pursuing
+brand_ambassador	brand ambassador
+trip	trip
+cruise	cruise
+long_days	long days
+worker	worker
+famous	famous
+knew	knew
+aspire	aspire
+eagle	eagle
+brain	brain
+chemistry	chemistry
+urban_area	urban area
+insecure	insecure
+wallflower	wallflower
+relationships	relationships
+lake	lake
+brew	brew
+thriller	thriller
+film	film
+fantasize	fantasize
+beautiful	beautiful
+belt_out	belt out
+beautiful_songs	beautiful songs
+stage_fright	stage fright
+raspberry	raspberry
+follicles	follicles
+mimic	mimic
+cali	cali
+ladies	ladies
+salmon	salmon
+salmon	salmon
+entree	entree
+walmart	walmart
+appeal	appeal
+7	7
+beaker	beaker
+enjoyment	enjoyment
+homebody	homebody
+emerald	emerald
+butter	butter
+corn	corn
+structured	structured
+enough	enough
+boy_band	boy band
+horse	horse
+nap	nap
+uniforms	uniforms
+ny_jets	ny jets
+reader	reader
+sense	sense
+surprised	surprised
+bang	bang
+next_door	next door
+flashers	flashers
+watch_movies	watch movies
+social_anxiety	social anxiety
+amazing	amazing
+stamina	stamina
+indoors	indoors
+punch	punch
+travelling	travelling
+disappointed	disappointed
+80s_music	80s music
+seem	seem
+paint	paint
+alecia_beth_moore	alecia beth moore
+mix	mix
+styles	styles
+coordinate	coordinate
+capital	capital
+scheduler	scheduler
+eight	eight
+animal_shelter	animal shelter
+doctor	doctor
+string_instrument	string instrument
+bass	bass
+swimmer	swimmer
+swimming	swimming
+thursdays	thursdays
+afternoons	afternoons
+peace	peace
+promotion	promotion
+power	power
+power	power
+timid	timid
+section	section
+put	put
+bros	bros
+thru	thru
+compact_car	compact car
+fast_food	fast food
+energy	energy
+album	album
+lessons	lessons
+401k	401k
+field	field
+xbox	xbox
+console	console
+saving	saving
+dotted	dotted
+barefoot	barefoot
+pals	pals
+split	split
+tons_of_money	tons of money
+intelligent	intelligent
+from_within	from within
+captain	captain
+sailor	sailor
+explorer	explorer
+assists	assists
+republican	republican
+mid	mid
+imagine	imagine
+surround	surround
+11th_grade	11th grade
+classic_music	classic music
+lab	lab
+old_clothes	old clothes
+long_distance_relationship	long distance relationship
+bugs	bugs
+8	8
+legs	legs
+fine	fine
+c	c
+main	main
+stream	stream
+capital_of_washington	capital of washington
+alive	alive
+stamp_collecting	stamp collecting
+collecting	collecting
+experience	experience
+elevators	elevators
+came	came
+first_language	first language
+record	record
+jog	jog
+steaks	steaks
+exploring	exploring
+savory	savory
+flavors	flavors
+road_rage	road rage
+two_girls	two girls
+customer_service	customer service
+loose	loose
+pound	pound
+pound	pound
+currency	currency
+sober	sober
+meeting	meeting
+fluffy	fluffy
+railroads	railroads
+gave	gave
+stick	stick
+numbers	numbers
+allergies	allergies
+christmas	christmas
+meditate	meditate
+treatment	treatment
+treatment	treatment
+paranormal_activities	paranormal activities
+finger	finger
+rent	rent
+bedroom	bedroom
+buccaneer	buccaneer
+criminal	criminal
+loved_ones	loved ones
+jane	jane
+mom_and_dad	mom and dad
+honey	honey
+ponytail	ponytail
+black	black
+irritate	irritate
+manicure	manicure
+confident	confident
+finished	finished
+camo	camo
+fishy	fishy
+southern_united_states	southern united states
+big_dogs	big dogs
+muscle	muscle
+singing	singing
+unique	unique
+illinois	illinois
+brother	brother
+dan_brown_books	dan brown books
+attorney	attorney
+birth	birth
+read_books	read books
+practice	practice
+witchcraft	witchcraft
+trust	trust
+issues	issues
+top	top
+tangerine	tangerine
+burnt_umber	burnt umber
+colored_pencil	colored pencil
+stretchy	stretchy
+posses	posses
+gang	gang
+caged	caged
+milk	milk
+earned	earned
+dessert	dessert
+course	course
+calls	calls
+participant	participant
+culinary_arts	culinary arts
+peppy	peppy
+detached	detached
+mental_health_professional	mental health professional
+lips	lips
+accessories	accessories
+clutch	clutch
+hot	hot
+makeup	makeup
+cherry	cherry
+common	common
+credit	credit
+gifted	gifted
+wits	wits
+match	match
+trivial_pursuit	trivial pursuit
+downtime	downtime
+macbook	macbook
+notebooks	notebooks
+asthma	asthma
+wash	wash
+eat_out	eat out
+investment_company	investment company
+pot	pot
+credence	credence
+accept	accept
+truth	truth
+made_up_stories	made up stories
+mediterranean	mediterranean
+toppings	toppings
+bread	bread
+party	party
+system	system
+engine	engine
+instructor	instructor
+educator	educator
+deals	deals
+software_developer	software developer
+engineer	engineer
+brush	brush
+easel	easel
+practicing	practicing
+publishing	publishing
+comfortable	comfortable
+roller_sports	roller sports
+tidy	tidy
+compare	compare
+wine	wine
+widow	widow
+stress	stress
+ratio	ratio
+coffee	coffee
+sixteen	sixteen
+orthodontics	orthodontics
+core	core
+covering	covering
+low	low
+remember	remember
+hippie	hippie
+crayons	crayons
+pen	pen
+mcgregor	mcgregor
+fighter	fighter
+becoming	becoming
+cop	cop
+lifting	lifting
+small_sword	small sword
+sword	sword
+george_orwell	george orwell
+shelled	shelled
+insures	insures
+admin_assistant	admin assistant
+thrillers	thrillers
+magic_kingdom	magic kingdom
+kite	kite
+appearance	appearance
+appearance	appearance
+vessel	vessel
+basic	basic
+trouble	trouble
+excellent	excellent
+lavender	lavender
+karate	karate
+taekwondo	taekwondo
+mcdonalds	mcdonalds
+interests	interests
+meet_new	meet new
+harrison	harrison
+discs	discs
+antique	antique
+buff	buff
+salads	salads
+lead	lead
+lead_singer_of_maroon_5	lead singer of maroon 5
+anemic	anemic
+california_rolls	california rolls
+sushi	sushi
+tones	tones
+golden	golden
+mathematics	mathematics
+enlisted	enlisted
+pieces	pieces
+types_of_singing	types of singing
+remind	remind
+peas	peas
+comedy	comedy
+dietary	dietary
+bullied	bullied
+attempt	attempt
+attempt	attempt
+scribing	scribing
+bat	bat
+tacos	tacos
+genre_of_music	genre of music
+popular	popular
+eyeliner	eyeliner
+valedictorian	valedictorian
+university_of_maryland	university of maryland
+wrestling	wrestling
+scot	scot
+foreman	foreman
+deliver	deliver
+automation	automation
+flow	flow
+rebounded	rebounded
+commander_in_chief	commander in chief
+owned	owned
+slot_machine	slot machine
+various	various
+yard	yard
+240	240
+seconds	seconds
+pass_time	pass time
+robber	robber
+geometry	geometry
+cheddar	cheddar
+fourty	fourty
+couch	couch
+competition	competition
+dentistry	dentistry
+adorn	adorn
+tilapia	tilapia
+fish	fish
+dinner	dinner
+light_out	light out
+college_athlete	college athlete
+going_shopping	going shopping
+photography	photography
+noodles	noodles
+tango	tango
+answer	answer
+firearm	firearm
+cub	cub
+local	local
+repairs	repairs
+repair	repair
+fluent	fluent
+war	war
+chalupas	chalupas
+chief_executive	chief executive
+entertainment	entertainment
+change	change
+view	view
+flims	flims
+lox	lox
+sitcom	sitcom
+thumb	thumb
+typist	typist
+spectrum	spectrum
+betrayed	betrayed
+generational	generational
+land	land
+fear_of_flying	fear of flying
+ole	ole
+patrick	patrick
+characters	characters
+relative	relative
+connect	connect
+spin	spin
+menu	menu
+adam_sandler	adam sandler
+god	god
+coming_up	coming up
+alumni	alumni
+millionaire	millionaire
+bad_luck	bad luck
+politicians	politicians
+stomach	stomach
+threatening	threatening
+break_up	break up
+nickname	nickname
+arnie	arnie
+squeezed	squeezed
+oranges	oranges
+tube	tube
+hoagies	hoagies
+hoops	hoops
+bed_rest	bed rest
+rest	rest
+99th	99th
+height_percentile	height percentile
+post_graduate	post graduate
+dreadlocks	dreadlocks
+adventure_sports	adventure sports
+bib	bib
+feel_sick	feel sick
+catholic	catholic
+dairy_products	dairy products
+spiritual	spiritual
+generations	generations
+jazz	jazz
+recorded	recorded
+j	j
+teenage	teenage
+son_and_daughter	son and daughter
+smell	smell
+coldness	coldness
+draws	draws
+focused	focused
+commerce	commerce
+courses	courses
+skin	skin
+animal_product	animal product
+blue	blue
+loud_music	loud music
+hippo	hippo
+mixing	mixing
+tobacco_products	tobacco products
+express	express
+car_industry	car industry
+old_things	old things
+action_figure	action figure
+shelves	shelves
+burgers	burgers
+egg	egg
+digital_currency	digital currency
+feels	feels
+global_cuisine	global cuisine
+curling_iron	curling iron
+twenties	twenties
+limited	limited
+bother	bother
+pray	pray
+church	church
+bone	bone
+entails	entails
+burn	burn
+order	order
+sharpen	sharpen
+brilliant	brilliant
+taker	taker
+picture	picture
+law	law
+pharmacist	pharmacist
+biggest	biggest
+follow	follow
+haver	haver
+different_things	different things
+gossiping	gossiping
+style	style
+guy	guy
+tickle	tickle
+ivories	ivories
+falling_out	falling out
+gardening	gardening
+flew	flew
+127	127
+tattoos	tattoos
+body_art	body art
+barista	barista
+landlord	landlord
+global	global
+scale	scale
+scale	scale
+proficiency	proficiency
+ski	ski
+mouth	mouth
+noah	noah
+journal	journal
+motel	motel
+service_industry	service industry
+south_korea	south korea
+tan	tan
+fashion	fashion
+lenses	lenses
+formal_events	formal events
+un	un
+curable	curable
+self	self
+flying_by	flying by
+instrumental_songs	instrumental songs
+jobs	jobs
+sports_car	sports car
+hero	hero
+villain	villain
+mba	mba
+girls_sports	girls sports
+agree	agree
+casual	casual
+65	65
+cages	cages
+eater	eater
+red_and_blue	red and blue
+winter	winter
+maroon_5	maroon 5
+welfare	welfare
+sunflower	sunflower
+small_farm	small farm
+commercial_license	commercial license
+absorb	absorb
+nurse	nurse
+trauma	trauma
+situations	situations
+fall_asleep	fall asleep
+simple	simple
+filling	filling
+beginner	beginner
+throw	throw
+musicians	musicians
+ocean_creatures	ocean creatures
+crime_investigations	crime investigations
+museum	museum
+attorneys	attorneys
+lawyer	lawyer
+executive	executive
+manager	manager
+chef	chef
+impaling	impaling
+hook	hook
+may	may
+competitive	competitive
+chatting	chatting
+regal_cinema	regal cinema
+lins	lins
+boss	boss
+racket_sport	racket sport
+price	price
+itch	itch
+mermaids	mermaids
+spirit	spirit
+lion_king	lion king
+digits	digits
+summers	summers
+trails	trails
+dancers	dancers
+cheddar_sauce	cheddar sauce
+download	download
+dust	dust
+dust	dust
+pick	pick
+busy	busy
+posting	posting
+everyday_life	everyday life
+camper	camper
+replicas	replicas
+playstation	playstation
+ups	ups
+kit	kit
+american_made	american made
+recovery	recovery
+mustang	mustang
+assassins_creed	assassins creed
+call_of_duty	call of duty
+chubby	chubby
+bakery	bakery
+court	court
+lebron	lebron
+watch_espn	watch espn
+bouquet	bouquet
+design	design
+pitched	pitched
+high_rise	high rise
+lizards	lizards
+dog_trainer	dog trainer
+edgy	edgy
+assign	assign
+labels	labels
+computer_art	computer art
+lookout	lookout
+kitty	kitty
+doll	doll
+president	president
+president	president
+shellfish	shellfish
+track	track
+bike_riding	bike riding
+needles	needles
+thread	thread
+reading_classic	reading classic
+race	race
+sporting_event	sporting event
+english_literature	english literature
+pupils	pupils
+watch	watch
+monster	monster
+chunky	chunky
+clear	clear
+professional_athlete	professional athlete
+obnoxious	obnoxious
+storms	storms
+wind	wind
+section	section
+section	section
+humor	humor
+response	response
+searching	searching
+belt	belt
+triplets	triplets
+unhealthy_foods	unhealthy foods
+helmet	helmet
+field_goal	field goal
+nicholas	nicholas
+jalapenos	jalapenos
+fifth	fifth
+graders	graders
+adorable	adorable
+department	department
+student_loans	student loans
+contact	contact
+old_lover	old lover
+piece_of_land	piece of land
+sew	sew
+tarts	tarts
+pie	pie
+checkout	checkout
+germany	germany
+pitcher	pitcher
+moa	moa
+spanish_culture	spanish culture
+ela	ela
+upstate_new_york	upstate new york
+backyard	backyard
+yard	yard
+farming	farming
+twelfth_grade	twelfth grade
+turned	turned
+ditzy	ditzy
+bouncer	bouncer
+part_time	part time
+chew	chew
+shining	shining
+missouri	missouri
+hunt_deer	hunt deer
+trails	trails
+sausage	sausage
+business_major	business major
+statues	statues
+thin	thin
+hbo	hbo
+originals	originals
+knights	knights
+sis	sis
+fun_things	fun things
+clowns	clowns
+prizes	prizes
+navigating	navigating
+colonel	colonel
+family_name	family name
+heal	heal
+clydesdale	clydesdale
+mr_ed	mr ed
+daffodils	daffodils
+profession	profession
+cubs	cubs
+care_of	care of
+gummy_bears	gummy bears
+parcels	parcels
+offices	offices
+drop_off	drop off
+saying	saying
+child_actor	child actor
+actor	actor
+tim_mcgraw	tim mcgraw
+rascal_flatts	rascal flatts
+labor	labor
+funny_person	funny person
+java	java
+exist	exist
+gameshows	gameshows
+mysteries	mysteries
+skip	skip
+rhyme	rhyme
+accomplished	accomplished
+love_football	love football
+designer	designer
+paints	paints
+metropolis	metropolis
+youth	youth
+single_parent	single parent
+uncharted	uncharted
+territory	territory
+dubai	dubai
+climb	climb
+climbing	climbing
+mountain_sport	mountain sport
+in_touch	in touch
+vet	vet
+altitude	altitude
+location	location
+serena_williams	serena williams
+lilies	lilies
+wild_beast	wild beast
+molds	molds
+mushy	mushy
+northeast	northeast
+safety	safety
+angered	angered
+relax	relax
+dropped_out	dropped out
+dilapidated	dilapidated
+gone	gone
+tackle	tackle
+chihuahua	chihuahua
+romance_languages	romance languages
+bunch	bunch
+fourteen	fourteen
+midday	midday
+slow	slow
+caterpillars	caterpillars
+life_cycle	life cycle
+homeless	homeless
+jamieson	jamieson
+liquor	liquor
+choice	choice
+good_job	good job
+milo	milo
+purring	purring
+mumble	mumble
+sarcasm	sarcasm
+queues	queues
+good_times	good times
+cleared	cleared
+shelf	shelf
+groupie	groupie
+deal	deal
+gymnast	gymnast
+camping	camping
+lose_weight	lose weight
+diesels	diesels
+gasoline	gasoline
+26	26
+hoarder	hoarder
+videotaping	videotaping
+showing_up	showing up
+on_time	on time
+donating	donating
+earnings	earnings
+coupons	coupons
+stay_cold	stay cold
+tastes	tastes
+penmanship	penmanship
+feminine	feminine
+extracurricular	extracurricular
+abby	abby
+activity	activity
+smoking	smoking
+long_road	long road
+road_trips	road trips
+quirky	quirky
+amphibians	amphibians
+country_club	country club
+florida_georgia_line	florida georgia line
+body_builder	body builder
+foot_odor	foot odor
+hectic	hectic
+answering	answering
+vacations	vacations
+trip	trip
+crush	crush
+documentaries	documentaries
+telecommuting	telecommuting
+background	background
+process	process
+pedals	pedals
+coloring	coloring
+italian_meals	italian meals
+sad	sad
+good_times	good times
+emt	emt
+cubicle	cubicle
+corporations	corporations
+cops	cops
+cpa	cpa
+mr	mr
+occurrence	occurrence
+jk_rowling	jk rowling
+swimwear	swimwear
+swimwear	swimwear
+putting_on	putting on
+wild_animals	wild animals
+wild_animal	wild animal
+dunder_mifflin	dunder mifflin
+logos	logos
+broccoli	broccoli
+apple_products	apple products
+snickers	snickers
+chocolate_bar	chocolate bar
+safe	safe
+young_adult_fiction	young adult fiction
+beach	beach
+attentive	attentive
+drawing	drawing
+flashy	flashy
+sale	sale
+save	save
+threads	threads
+illustrate	illustrate
+ponies	ponies
+cartoon	cartoon
+canadian_sports	canadian sports
+session	session
+tim	tim
+organic	organic
+boxer	boxer
+raising	raising
+thoroughbreds	thoroughbreds
+themes	themes
+drug_store	drug store
+bad_kid	bad kid
+mickey_dees	mickey dees
+dig	dig
+guys	guys
+roommates	roommates
+distant	distant
+page	page
+peculiar	peculiar
+wifi	wifi
+vet	vet
+effort	effort
+separated	separated
+ones	ones
+classic_films	classic films
+break	break
+spaghetti	spaghetti
+transporting	transporting
+flight	flight
+mythical_creatures	mythical creatures
+creatures	creatures
+bun	bun
+waterfront_properties	waterfront properties
+acrobat	acrobat
+footwork	footwork
+solitude	solitude
+immigrants	immigrants
+omelets	omelets
+tour	tour
+ask	ask
+work_up	work up
+strict	strict
+healthy_foods	healthy foods
+ham	ham
+episodes	episodes
+96	96
+drivers_license	drivers license
+social_media	social media
+clinic	clinic
+levels	levels
+jock	jock
+superheroes	superheroes
+afternoon_hours	afternoon hours
+mermaid	mermaid
+finding_nemo	finding nemo
+tuba	tuba
+medical_drama	medical drama
+rehearsals	rehearsals
+nirvana	nirvana
+lists	lists
+peruse	peruse
+typical	typical
+soulmate	soulmate
+gynecologist	gynecologist
+lilac	lilac
+doodle	doodle
+afro	afro
+wavy	wavy
+dusk	dusk
+early_20s	early 20s
+advanced	advanced
+dangerous	dangerous
+speeds	speeds
+rate	rate
+canvas	canvas
+57	57
+classified	classified
+refreshes	refreshes
+urban_center	urban center
+moving_on	moving on
+orlando	orlando
+record_shop	record shop
+felt	felt
+moon	moon
+throwing_balls	throwing balls
+throwing	throwing
+marathoner	marathoner
+strength_and_weakness	strength and weakness
+natural_colors	natural colors
+sleek	sleek
+drawn	drawn
+objects	objects
+treating_others	treating others
+einstein	einstein
+received	received
+accolades	accolades
+german_shepherd	german shepherd
+leased	leased
+wolf	wolf
+morning_person	morning person
+pictures	pictures
+electric_bill	electric bill
+dirty	dirty
+refuse	refuse
+minnesota	minnesota
+census	census
+census	census
+skate	skate
+chick	chick
+comic_book	comic book
+tract	tract
+hotcakes	hotcakes
+cake	cake
+spin_class	spin class
+flexible	flexible
+coronary	coronary
+chords	chords
+compose	compose
+self_expression	self expression
+shouting	shouting
+active_imagination	active imagination
+ordering	ordering
+intention	intention
+amazon	amazon
+sip	sip
+tidying	tidying
+acrylics	acrylics
+lan	lan
+shoot	shoot
+waterfowl	waterfowl
+notes	notes
+keyboard	keyboard
+keyboard	keyboard
+louisiana	louisiana
+full_time_job	full time job
+picky_eater	picky eater
+funk_rock	funk rock
+sit	sit
+half	half
+harvard	harvard
+skier	skier
+musicianship	musicianship
+save_lives	save lives
+olds	olds
+tropical_island	tropical island
+54	54
+mass	mass
+or_use	or use
+cowboy_hat	cowboy hat
+auto_shop	auto shop
+air_guitar	air guitar
+fallout_4	fallout 4
+twentieth_century	twentieth century
+drummer	drummer
+fast_cars	fast cars
+channing_tatum	channing tatum
+best_actor	best actor
+xbox_one	xbox one
+red_robin	red robin
+yellow_dog	yellow dog
+big_bang_theory	big bang theory
+drown	drown
+inclined	inclined
+water_sports	water sports
+carmen	carmen
+middle_east	middle east
+long_weekends	long weekends
+fantasizing	fantasizing
+moments	moments
+freak	freak
+love_children	love children
+nonsense	nonsense
+junior	junior
+beginning	beginning
+bespoke	bespoke
+coverings	coverings
+king	king
+beds	beds
+dominoes	dominoes
+sort	sort
+gummy_bears	gummy bears
+orthodontist	orthodontist
+rifle	rifle
+devouring	devouring
+teach_in	teach in
+subdued	subdued
+friendly	friendly
+valentines_day	valentines day
+peanut	peanut
+old_fashion	old fashion
+owning	owning
+fish_tank	fish tank
+cop	cop
+other_people_live	other people live
+irritated	irritated
+stuck	stuck
+dozens	dozens
+cardio	cardio
+graduates	graduates

@@ -1,0 +1,18 @@
+--> find wikidata id from freebase
+
+SELECT ?item ?itemLabel 
+WHERE 
+{
+  ?item wdt:P646 '/m/07s9rl0'.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+
+
+--> find freebase id from wikidata
+SELECT ?item 
+WHERE 
+{
+  wd:Q146 wdt:P646 ?item.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}

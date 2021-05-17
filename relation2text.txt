@@ -1,0 +1,2 @@
+subclass_of	subclass of
+has_subclass	has subclass
