@@ -3,3 +3,4 @@ utils/
 .idea/
 __pycache__/
 fel_env/
+*.pyc
